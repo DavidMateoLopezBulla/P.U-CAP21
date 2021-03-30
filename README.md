@@ -32,6 +32,8 @@ Marco Teorico / Diagramas
 wattímetros.
 
 ## Video
+https://youtu.be/_gI7ZcacNfs
 
 ## Bibliografia
-Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+- Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (Circuitos ed., Vol. 8) [Libro electrónico]. PRENTICE HALL/PEARSON. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+- 1.6. Potencia en sistemas trifásicos. (s. f.). EDUCATEEC. Recuperado 30 de marzo de 2021, de http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/3000/3020/html/16_potencia_en_sistemas_trifsicos.html

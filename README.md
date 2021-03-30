@@ -1,5 +1,14 @@
-# P.U-CAP21
+# PRODUCTO-UNIDAD-CAP21
 
+- DAVID LOPEZ
+- MARIU CORREA
+- DANNY JIMENEZ
+
+
+
+---------------------------------------------
+### OBJETIVOS 
+	
 ## Objetivo general
 
 -   Instruirse en el uso e importancia de los sistemas trifásicos en aplicaciones de potencia.
@@ -15,7 +24,7 @@ trifásicas
 - Observar mediciones de potencia en sistemas
 trifásicos
 
-Marco Teorico / Diagramas
+### Marco Teorico / Diagramas
 
 
 
@@ -23,7 +32,7 @@ Marco Teorico / Diagramas
 ![2](https://user-images.githubusercontent.com/76446982/112941153-c0247700-90f3-11eb-9958-1d4d15aa4993.png)
 
 
-## Conclusiones
+### Conclusiones
 - Un generador trifásico simple se compone de tres espiras conductoras separadas por 120°.
 - En un circuito equilibrado trifasico las tres fases del sistema son iguales.
 - En un generador conectado en Y, hay una diferencia de 30° entre cada voltaje de línea y el voltaje de fase más cercano.
@@ -31,7 +40,8 @@ Marco Teorico / Diagramas
 - En una carga trifásica la potencia se mide aplicando o el método de tres wattímetros o el método de dos
 wattímetros.
 
-## Video
+### **Anexos**
+
 https://youtu.be/_gI7ZcacNfs
 
 ## Bibliografia

@@ -9,10 +9,10 @@
 - Describir máquinas trifásicas básicas.
 - Analizar las ventajas de los generadores trifásicos
 en aplicaciones de potencia
-- Analizar las conexiones de un generador trifásico
-- Analizar generadores trifásicos con cargas
+- Examinar las conexiones de un generador trifásico
+- Estudiar generadores trifásicos con cargas
 trifásicas
-- Analizar mediciones de potencia en sistemas
+- Observar mediciones de potencia en sistemas
 trifásicos
 
 

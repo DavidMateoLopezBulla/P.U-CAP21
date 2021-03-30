@@ -14,7 +14,10 @@ en aplicaciones de potencia
 trifásicas
 - Observar mediciones de potencia en sistemas
 trifásicos
+
 Marco Teorico / Diagramas
+
+
 
 ![1](https://user-images.githubusercontent.com/76446982/112941147-bd298680-90f3-11eb-8bce-89eba86bb5bb.png)
 ![2](https://user-images.githubusercontent.com/76446982/112941153-c0247700-90f3-11eb-9958-1d4d15aa4993.png)
